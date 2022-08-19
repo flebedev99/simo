@@ -117,6 +117,7 @@ function startAgain() {
   i = 0;
   n = 0;
   btnsClicked = [];
+  btnsToClick = [];
   lvllabel.innerText = "Level: " + difficulty;
   lm.style.visibility = "hidden";
   wm.style.visibility = "hidden";
